@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89ed31d1-b914-43d4-a170-02905b2870d5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.html" afterPath="$PROJECT_DIR$/views/index.html" />
-    </list>
+    <list default="true" id="89ed31d1-b914-43d4-a170-02905b2870d5" name="Default" comment="" />
     <ignored path="rgbootrepo.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +34,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17273796">
-              <caret line="240" column="29" selection-start-line="240" selection-start-column="29" selection-end-line="240" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.266745">
+              <caret line="245" column="51" selection-start-line="245" selection-start-column="51" selection-end-line="245" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -193,8 +191,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17273796">
-          <caret line="240" column="29" selection-start-line="240" selection-start-column="29" selection-end-line="240" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.266745">
+          <caret line="245" column="51" selection-start-line="245" selection-start-column="51" selection-end-line="245" selection-end-column="51" />
           <folding />
         </state>
       </provider>
