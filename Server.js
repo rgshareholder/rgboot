@@ -1,4 +1,5 @@
 var express = require("express");
+var bodyParser =  require("body-parser");
 var app = express();
 var router = express.Router();
 var path = __dirname + '/views/';
@@ -19,6 +20,14 @@ router.get("/about",function(req,res){
 
 router.get("/contact",function(req,res){
   res.sendFile(path + "contact.html");
+});
+
+app.post('/addtomailinglist', function(req, res){
+  var userName = req.body.name;
+  var email = req.body.email;
+  var html = 'Hello: ' + userName + '.<br>' + email +
+      '<a href="/">Try again.</a>';
+  res.send(html);
 });
 
 app.use("/",router);
